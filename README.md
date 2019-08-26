@@ -1,9 +1,13 @@
 # Java_OO_Bootcamp_01
 
- This is the demo of a class named possibility, which abstracts the possibility of one thing.
+ This is the demo of a class named PossibleThing, which abstracts the properties and behaviors of one thing that could happen.
 
 ## Local build
 
 * Build lib: ```` gradlew build```` 
 
 * Run test: ```` gradlew test````
+
+## Description
+
+* The things mentioned in this demo are independent irrelevant events
