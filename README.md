@@ -1,6 +1,6 @@
 # Java_OO_Bootcamp_01
 
- This is the demo of a class named PossibleThing, which abstracts the properties and behaviors of one thing that could happen.
+ This is the demo of a class named Chance, which abstracts the properties and behaviors of one thing that could happen.
 
 ## Local build
 
@@ -10,4 +10,4 @@
 
 ## Note
 
-* The things mentioned in this demo are independent irrelevant events
+* The Chances mentioned in this demo are independent irrelevant events
