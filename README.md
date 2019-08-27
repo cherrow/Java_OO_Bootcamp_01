@@ -8,6 +8,6 @@
 
 * Run test: ```` gradlew test````
 
-## Description
+## Note
 
 * The things mentioned in this demo are independent irrelevant events
