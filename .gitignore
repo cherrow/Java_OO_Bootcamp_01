@@ -4,23 +4,6 @@
 *.iml
 *.iws
 
-# temp ignore
-*.log
-*.cache
-*.diff
-*.exe
-*.exe~
-*.patch
-*.tmp
-*debug.test
-
-# project
-*.cert
-*.key
-.test
-
-_output
-
 # Ignore Gradle project-specific cache directory
 .gradle/
 
